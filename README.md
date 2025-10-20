@@ -32,6 +32,7 @@ Added KPI cards and legends to enhance interpretability.
 Built an interactive dashboard to explore cost differences across procedures and patient types.
 
 ## Results:
+[Hospital Analytics Dashboard](https://public.tableau.com/app/profile/sierra.brock/viz/Hospital_Analytics_Dashboard/Dashboard1?publish=yes)
 
 ## Key Insights:
 

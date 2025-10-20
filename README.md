@@ -3,7 +3,7 @@ SQL, Tableau
 
 
 ## Objective:
-The goal of this project was to analyze healthcare claim data to compare out-of-pocket costs and payer coverage costs across different medical procedures, helping identify which procedures place the greatest financial burden on patients.
+The goal of this project was to visualize and analyze a hospital’s patient encounter data using Tableau. The objective was to uncover yearly trends, encounter class distributions, procedure costs, and payer coverage patterns to support data-driven decision-making in hospital operations and healthcare cost management.
 
 Tools Used:
 
@@ -35,8 +35,16 @@ Built an interactive dashboard to explore cost differences across procedures and
 
 ## Key Insights:
 
-Certain procedures showed significantly higher patient out-of-pocket costs despite similar payer coverage.
+### Encounters Overview
 
-The dashboard allows stakeholders to quickly identify cost disparities and potential areas for financial policy review.
+- Encounters increased steadily from 2011 to 2014, with a major spike in 2014 and another in 2021.
+
+- The Ambulatory category consistently represented the largest share of encounters, peaking at 60.3% in 2014.
+
+- Only 4.1% of encounters lasted more than 24 hours, suggesting most visits were short-term.
+
+- Outpatient encounters notably rose in 2021 (40.2%), narrowing the gap with Ambulatory visits.
+
+Dashboard Feature: Line charts and stacked bar visuals were used to show yearly encounter trends and category proportions with interactive tooltips.
 
 ## Recommendations: 

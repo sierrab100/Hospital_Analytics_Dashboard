@@ -84,8 +84,6 @@ Most Expensive Procedures:
 
 - Nearly half of encounters lack payer coverage, representing a major financial challenge for the hospital.
 
-- Tableau’s dynamic visuals made it possible to connect cost patterns with encounter and payer trends in real time.
-
 ## Recommendations: 
 
 - Operational Efficiency: Reduce inpatient costs by expanding outpatient services and preventive care programs.

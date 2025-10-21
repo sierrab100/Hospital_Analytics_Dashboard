@@ -11,29 +11,12 @@ Tools Used:
 
 - Tableau: Data visualization and dashboard creation for interactive analysis and reporting.
 
+## Executive Summary
+
 ## Data Structure and Overview
 
 ![My Table_1](images/Data_Diagram.png)
 
-## Process:
-
-Data Preparation (SQL):
-
-Queried and joined multiple tables containing cost, procedure, and patient data.
-
-Calculated total and average out-of-pocket and payer coverage costs for each procedure.
-
-Exported cleaned, summarized results for visualization.
-
-Visualization & Insights (Tableau):
-
-Created a side-by-side bar chart comparing out-of-pocket vs. payer coverage costs by procedure.
-
-Applied sorting to rank procedures from highest to lowest average out-of-pocket cost.
-
-Added KPI cards and legends to enhance interpretability.
-
-Built an interactive dashboard to explore cost differences across procedures and patient types.
 
 ## Results:
 [Hospital Analytics Dashboard](https://public.tableau.com/app/profile/sierra.brock/viz/Hospital_Analytics_Dashboard/Dashboard1?publish=yes)

@@ -18,7 +18,7 @@ Tools Used:
 ![My Table_1](images/Data_Diagram.png)
 
 
-## Results:
+## Insights
 [Hospital Analytics Dashboard](https://public.tableau.com/app/profile/sierra.brock/viz/Hospital_Analytics_Dashboard/Dashboard1?publish=yes)
 
 ![My Image_1](images/Chart1.png)
@@ -28,8 +28,6 @@ Tools Used:
 ![My Image_3](images/Chart3.png)
 
 ![My Image_4](images/Chart4.png)
-
-## Key Insights:
 
 ### Encounters Overview
 

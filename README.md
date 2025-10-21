@@ -17,6 +17,20 @@ This project analyzed a hospital’s patient encounter data using SQL and Tablea
 
 ## Data Structure and Overview
 
+This dataset represents a relational healthcare database designed to capture detailed information about hospital encounters, patients, organizations, payers, and medical procedures.
+
+The encounters table is the central fact table, recording each patient visit with timestamps, encounter type (e.g., inpatient, outpatient, ambulatory), associated costs, and payer coverage details. It connects to supporting dimension tables through foreign keys:
+
+- The patients table stores demographic and geographic information such as age, gender, race, marital status, and location, allowing demographic-based analysis of healthcare utilization.
+
+- The organizations table identifies healthcare facilities where encounters occur, including their name, address, and geolocation data (latitude and longitude), enabling spatial and institutional analysis.
+
+- The payers table contains information about insurance providers, including their names, addresses, and headquarters, supporting analyses of coverage and claim costs by insurer.
+
+- The procedures table records specific medical procedures performed during encounters, including codes, descriptions, base costs, and medical reasons, allowing cost and frequency analyses of treatments and services.
+
+Together, these linked tables form a star-schema-like structure, where encounters serve as the central hub connecting patient, payer, organization, and procedure data. This schema supports comprehensive healthcare analytics — such as identifying cost drivers, evaluating payer performance, understanding patient demographics, and analyzing procedure patterns across time and locations.
+
 ![My Table_1](images/Data_Diagram.png)
 
 

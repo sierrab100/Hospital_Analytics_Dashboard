@@ -11,6 +11,8 @@ Tools Used:
 
 - Tableau: Data visualization and dashboard creation for interactive analysis and reporting.
 
+## Data Structure and Overview
+
 ## Process:
 
 Data Preparation (SQL):

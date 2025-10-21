@@ -38,6 +38,14 @@ Built an interactive dashboard to explore cost differences across procedures and
 ## Results:
 [Hospital Analytics Dashboard](https://public.tableau.com/app/profile/sierra.brock/viz/Hospital_Analytics_Dashboard/Dashboard1?publish=yes)
 
+![My Image_1](images/Chart1.png)
+
+![My Image_2](images/Chart2.png)
+
+![My Image_3](images/Chart3.png)
+
+![My Image_4](images/Chart4.png)
+
 ## Key Insights:
 
 ### Encounters Overview

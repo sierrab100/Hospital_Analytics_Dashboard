@@ -13,6 +13,8 @@ Tools Used:
 
 ## Data Structure and Overview
 
+![My Table_1](images/Data_Diagram.png)
+
 ## Process:
 
 Data Preparation (SQL):

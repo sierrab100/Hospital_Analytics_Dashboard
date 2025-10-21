@@ -13,6 +13,8 @@ Tools Used:
 
 ## Executive Summary
 
+This project analyzed a hospital’s patient encounter data using SQL and Tableau to uncover trends in healthcare utilization, costs, and payer coverage. The analysis revealed that encounters peaked in 2014 and 2021, with Ambulatory and Outpatient visits making up the majority of patient activity. Inpatient and Urgent Care encounters consistently generated the highest total claim costs, while nearly half of all encounters lacked payer coverage, highlighting a substantial uninsured population. The most frequent procedures included assessments, hospice care, and depression screenings, while ICU admissions and major surgeries represented the highest costs. Medicaid provided the greatest average coverage, whereas uninsured patients faced the highest out-of-pocket expenses. These findings suggest opportunities to enhance operational efficiency through expanded outpatient care, improve financial stability by addressing uninsured populations, and strengthen resource planning to anticipate demand surges.
+
 ## Data Structure and Overview
 
 ![My Table_1](images/Data_Diagram.png)

@@ -21,36 +21,6 @@ Tools Used:
 ## Insights
 [Hospital Analytics Dashboard](https://public.tableau.com/app/profile/sierra.brock/viz/Hospital_Analytics_Dashboard/Dashboard1?publish=yes)
 
-![My Image_1](images/Chart1.png)
-
-![My Image_2](images/Chart2.png)
-
-![My Image_3](images/Chart3.png)
-
-![My Image_4](images/Chart4.png)
-
-### Encounters Overview
-
-- Encounters increased steadily from 2011 to 2014, with a major spike in 2014 and another in 2021.
-
-- The Ambulatory category consistently represented the largest share of encounters, peaking at 60.3% in 2014.
-
-- Only 4.1% of encounters lasted more than 24 hours, suggesting most visits were short-term.
-
-- Outpatient encounters notably rose in 2021 (40.2%), narrowing the gap with Ambulatory visits.
-
-Dashboard Feature: Line charts and stacked bar visuals were used to show yearly encounter trends and category proportions with interactive tooltips.
-
-### Cost & Coverage Insights
-
-- Total claim costs peaked in 2011 and again in 2020, reflecting potential operational or demand surges.
-
-- Inpatient and Urgent Care encounters consistently had the highest total claim costs.
-
-- Nearly 48.7% of all encounters had no payer coverage, representing a significant uninsured population.
-
-Dashboard Feature: A dual-axis chart compared total claim cost trends with encounter volumes over time, color-coded by encounter class.
-
 
 ### Procedure Insights
 
@@ -74,7 +44,7 @@ Most Expensive Procedures:
 
 - Lumpectomy of breast — $29,353.00 (Avg.)
 
-Dashboard Feature: A sortable bar chart showing procedures by frequency and average base cost, with hover-based details for medical descriptions.
+![My Image_1](images/Chart1.png)
 
 ### Payer Coverage & Out-of-Pocket Costs
 
@@ -82,7 +52,29 @@ Dashboard Feature: A sortable bar chart showing procedures by frequency and aver
 
 - Medicaid provided the highest total claim coverage ($6,205.22 avg.), followed by Blue Cross Blue Shield and Medicare.
 
-Dashboard Feature: Highlight tables and bar charts display payer coverage comparisons and average claim costs interactively.
+![My Image_2](images/Chart2.png)
+
+### Encounters Overview
+
+- Encounters increased steadily from 2011 to 2014, with a major spike in 2014 and another in 2021.
+
+- The Ambulatory category consistently represented the largest share of encounters, peaking at 60.3% in 2014.
+
+- Only 4.1% of encounters lasted more than 24 hours, suggesting most visits were short-term.
+
+- Outpatient encounters notably rose in 2021 (40.2%), narrowing the gap with Ambulatory visits.
+
+![My Image_3](images/Chart3.png)
+
+### Cost & Coverage Insights
+
+- Total claim costs peaked in 2011 and again in 2020, reflecting potential operational or demand surges.
+
+- Inpatient and Urgent Care encounters consistently had the highest total claim costs.
+
+- Nearly 48.7% of all encounters had no payer coverage, representing a significant uninsured population.
+
+![My Image_4](images/Chart4.png)
 
 ## Summary of Insights
 

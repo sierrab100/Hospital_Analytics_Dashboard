@@ -2,7 +2,7 @@
 SQL, Tableau
 
 
-## Objective:
+## Objective
 The goal of this project was to visualize and analyze a hospital’s patient encounter data using Tableau. The objective was to uncover yearly trends, encounter class distributions, procedure costs, and payer coverage patterns to support data-driven decision-making in hospital operations and healthcare cost management.
 
 Tools Used:
@@ -100,7 +100,7 @@ Most Expensive Procedures:
 
 - Nearly half of encounters lack payer coverage, representing a major financial challenge for the hospital.
 
-## Recommendations: 
+## Recommendations 
 
 - Operational Efficiency: Reduce inpatient costs by expanding outpatient services and preventive care programs.
 
